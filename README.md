@@ -1,2 +1,2 @@
 # Web-Scrapper-Medium
-This repo will basically scrap all the important information from a medium article.
+This repository is designed to scrap all the important information from a medium article webpage.
